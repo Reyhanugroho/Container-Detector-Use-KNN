@@ -1,0 +1,4 @@
+labeling.py for labeling dataset
+KNNTERBARU for main code
+annotation_with_color_label1 place to containernumbers_container-serials/train
+annotation_with_color_label2 place to containernumbers_container-serials/valid
