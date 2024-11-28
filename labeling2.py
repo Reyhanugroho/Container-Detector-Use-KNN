@@ -18,24 +18,29 @@ def get_dominant_color(image_path, k=3):
 
 # Fungsi untuk memetakan RGB ke label berdasarkan rentang warna yang telah ditentukan
 def map_color_to_label(rgb_values):
-    r, g, b = rgb_values
-    if abs(r - g) < 30 and abs(g - b) < 30 and r > 200:  # Dekat dengan putih
-        return "Dry Cargo"
-    elif b > r and b > g:  # Dominan biru
-        return "Frozen Cargo"
-    elif g > r and g > b:  # Dominan hijau
-        return "Agriculture-Related Cargo"
-    elif r > g and r > b:  # Dominan merah
-        return "Hazardous Cargo"
-    elif r > 200 and g > 200 and b < 100:  # Kuning kekuningan
-        return "Bulk Cargo"
-    elif r > 100 and g > 50 and b < 50:  # Cokelat kekuningan
-        return "Forest Industry Related"
-    else:
+    if rgb_values is None:
         return "Uncategorized"
+    
+    r, g, b = rgb_values
+    if max(r, g, b) < 50:  # Hitam (nilai RGB rendah)
+        return "Black"
+    elif min(r, g, b) > 200:  # Putih (nilai RGB tinggi)
+        return "White"
+    elif r > g and r > b:  # Dominan merah
+        return "Red"
+    elif g > r and g > b:  # Dominan hijau
+        return "Green"
+    elif b > r and b > g:  # Dominan biru
+        return "Blue"
+    elif r > 200 and g > 200 and b < 100:  # Kuning
+        return "Yellow"
+    elif r > 100 and g > 50 and b < 50:  # Cokelat
+        return "Brown"
+    else:  # Jika tidak cocok, klasifikasikan sebagai "Other"
+        return "Other"
 
 # Folder yang berisi gambar untuk data latih
-image_folder = 'D:/SEMESTER5/ARTIFISIAL/datas/datas/containernumbers_container-serials/valid'  # Gantilah dengan folder gambar data latih
+image_folder = 'D:/Serba Serbi Kuliah/MATERI KULIAH SMT 5/AI/UAS_AI/data/containernumbers_container-serials/valid'  # Gantilah dengan folder gambar data latih
 
 # Membaca gambar dan memberikan label warna dominan
 image_files = os.listdir(image_folder)
@@ -56,15 +61,12 @@ for idx, image_filename in enumerate(image_files):
             "file_name": image_filename,
             "height": 416,  # Gantilah sesuai dengan ukuran gambar jika diperlukan
             "width": 416,   # Gantilah sesuai dengan ukuran gambar jika diperlukan
-            "date_captured": "2023-02-10T13:38:47+00:00"  # Gantilah dengan tanggal yang sesuai
         })
         
         annotations.append({
             "id": idx,
             "image_id": idx,
             "category_id": 1,  # Gantilah dengan kategori yang sesuai
-            "bbox": [100, 100, 50, 50],  # Gantilah dengan bounding box yang sesuai
-            "area": 2500,  # Gantilah dengan area yang sesuai
             "color_label": label,
             "dominant_color": dominant_color.tolist(),
             "segmentation": [],
@@ -81,7 +83,7 @@ annotations_data = {
 }
 
 # Menyimpan ke dalam file JSON
-json_file_path = 'D:/SEMESTER5/ARTIFISIAL/datas/datas/containernumbers_container-serials/valid/annotations_with_color_labels2.json'
+json_file_path = 'D:/Serba Serbi Kuliah/MATERI KULIAH SMT 5/AI/UAS_AI/data/containernumbers_container-serials/valid/annotations_color_valid.json'
 with open(json_file_path, 'w') as f:
     json.dump(annotations_data, f, indent=4)
 
