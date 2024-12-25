@@ -50,22 +50,27 @@ def map_color_to_label(rgb_values):
     # Konversi RGB ke HSV
     h, s, v = colorsys.rgb_to_hsv(r, g, b)
 
-    # Rentang warna yang diperluas
+    # Rentang warna
     if v > 0.9 and s < 0.2:  # Putih (nilai tinggi, saturasi rendah)
         return "White"
-    elif h >= 0.0 and h <= 0.05 and s > 0.4:  # Merah (rentang hue diperluas untuk merah gelap)
+    elif h >= 0.0 and h <= 0.05 and s > 0.4:  # Merah
         return "Red"
-    elif h >= 0.05 and h <= 0.4 and s > 0.4:  # Hijau (rentang hijau diperluas untuk mencakup hijau kekuningan)
+    elif h >= 0.05 and h <= 0.4 and s > 0.4:  # Hijau
         return "Green"
-    elif h >= 0.1 and h <= 0.2 and v > 0.6 and s > 0.5:  # Kuning (rentang hue diperluas ke sisi hijau dan merah)
-        return "Yellow"
-    elif h >= 0.5 and h <= 0.75 and s > 0.4:  # Biru (rentang hue tetap)
+    elif h >= 0.5 and h <= 0.75 and s > 0.4:  # Biru
         return "Blue"
     else:
-        return "Other"
+        # Jika tidak masuk kategori lain, dikelompokkan ke warna terdekat (fallback)
+        if h < 0.1:  # Warna mendekati merah
+            return "Red"
+        elif h < 0.5:  # Warna mendekati hijau
+            return "Green"
+        else:  # Warna mendekati biru
+            return "Blue"
+
 
 # Folder yang berisi gambar untuk data latih
-image_folder = 'D:/Serba Serbi Kuliah/MATERI KULIAH SMT 5/AI/UAS_AI/Container-Detector-Use-KNN/data'
+image_folder = 'D:/Serba Serbi Kuliah/MATERI KULIAH SMT 5/AI/UAS_AI/Container-Detector-Use-KNN/data new'
 
 # Validasi folder
 if not os.path.exists(image_folder):
@@ -98,7 +103,7 @@ for idx, image_filename in enumerate(image_files):
     })
 
 # Menyimpan ke dalam file JSON
-output_path = 'D:/Serba Serbi Kuliah/MATERI KULIAH SMT 5/AI/UAS_AI/Container-Detector-Use-KNN/titik_tengah3.json'
+output_path = 'D:/Serba Serbi Kuliah/MATERI KULIAH SMT 5/AI/UAS_AI/Container-Detector-Use-KNN/data_new.json'
 with open(output_path, 'w') as f:
     json.dump(combined_data, f, indent=4)
 

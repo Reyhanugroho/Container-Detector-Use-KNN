@@ -1,0 +1,5102 @@
+[
+    {
+        "file_name": "1-122720001-OCR-AH-A01_jpg.rf.fe435e6d553eaf690f5774ef0d1aecd4.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 0,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                42.884814584628096,
+                204.4052206339339,
+                88.91816863476261
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-122720001-OCR-LB-C02_jpg.rf.20a74cb604bf5d98871f3e5aedf851c2.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 1,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                39.449784791965385,
+                115.58177905308469,
+                50.429985652797704
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-122720001-OCR-RF-D01_jpg.rf.9a472e57bd5ae1b2b247623c42dfdb12.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 2,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                44.107273559011766,
+                199.36482159194867,
+                82.48970722781333
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-122906001-OCR-AH-A01_jpg.rf.f9300e0155a99d8585b13c8269075c7d.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 3,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                63.934645470603016,
+                133.01539237951042,
+                218.32904365379795
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-122906001-OCR-LF-C01_jpg.rf.58dba8d9bd8361620be4f1f30feba445.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 4,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                77.04365846919039,
+                102.55070461453441,
+                146.95689416966007
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-123009001-OCR-AH-A01_jpg.rf.04e3f3f0d336aaf69abb55e9cdfa6927.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 5,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                40.32239614690003,
+                169.45183624322706,
+                80.02588801926547
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-123009001-OCR-LB-C02_jpg.rf.821ba7c9792be2c1850cfdda503ee959.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 6,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                33.75583864118902,
+                77.07494692144377,
+                44.33673036093413
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-123009001-OCR-RF-D01_jpg.rf.a3015482ea7f6b28269757fe5bbfc479.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 7,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                29.775739041794047,
+                130.14067278287456,
+                50.21585117227321
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-123501001-OCR-RF-D01_jpg.rf.f93e46d8b056bad59fbae048a2313a3f.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 8,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                176.75604189044032,
+                175.3147153598282,
+                153.19750268528435
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-123822001-OCR-RF-D01_jpg.rf.55d0b5894748089f55e34c0d1316f77c.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 9,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                21.439686992469976,
+                86.66469806584969,
+                178.82253063635014
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-155538001-OCR-AS-B01_jpg.rf.f282f4a5d99b77380b84cb97b09341d1.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 10,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                158.84841765773047,
+                66.82543841967322,
+                58.009272324128204
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-155538001-OCR-LB-C02_jpg.rf.f15adf8986d415351cd593404256bd5c.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 11,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                129.79060303366643,
+                72.66235047478096,
+                67.26834381551348
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-155538001-OCR-RF-D01_jpg.rf.1ec18642382c91ffe96c8958c98a5c2f.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 12,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                141.47118301314464,
+                38.12824401752624,
+                29.94809571958198
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-155554001-OCR-AH-A01_jpg.rf.b5bbce61a94f5e8f5e48004f55eb68f1.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 13,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                23.86495726495725,
+                37.30793650793654,
+                104.42539682539669
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-155554001-OCR-AS-B01_jpg.rf.def1dd09d2d3dda09b2357ec4221c66a.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 14,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                20.669450824806525,
+                33.60659845479227,
+                59.9749425767392
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-155700001-OCR-AH-A01_jpg.rf.8fa4fdfb0bc07bc9b79e6a9770da1cd5.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 15,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                126.54943639291457,
+                25.930756843800328,
+                23.321417069243136
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-155700001-OCR-AS-B01_jpg.rf.fdb703a473fb38799f5ad45e830c6af7.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 16,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                132.0368476727785,
+                58.89315937940725,
+                52.934767277856395
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-155721001-OCR-AH-A01_jpg.rf.863b3ea4f0db6a430f31fb84c7c0188c.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 17,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                68.62588060808307,
+                25.540971449758995,
+                24.901742677048563
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-155749001-OCR-AH-A01_jpg.rf.640b5b08c1e688f699230a6ac549861d.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 18,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                35.58481561822126,
+                149.5566160520607,
+                70.65292841648592
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-155758001-OCR-AH-A01_jpg.rf.6bfbfc5bcae42c104afcf0c80821a88e.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 19,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                26.32472748135398,
+                30.421973608720585,
+                55.139701663797986
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-155758001-OCR-AS-B01_jpg.rf.6a19fb33dad8e2d4c214fece111687d0.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 20,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                70.66877637130784,
+                88.78557729190659,
+                121.00728807057921
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-155758001-OCR-RF-D01_jpg.rf.df03980bf85a92716cd1e213b210ea40.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 21,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                36.50776778413754,
+                55.86835650040867,
+                117.4706459525756
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-155800001-OCR-AS-B01_jpg.rf.a0ff30ada5a7bc98b99ed5b75adba053.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 22,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                19.294903737259283,
+                30.05639864099647,
+                97.9596828992073
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "1-155800001-OCR-LB-C02_jpg.rf.4bc9111a30fbbb75febc37b20727d46a.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 23,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                22.281223206630422,
+                35.6627607887968,
+                99.89368390968838
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "20191028-224748-01-8_jpg.rf.01f185d83f7f2f8250394cf9047e81b2.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 24,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                147.28865231067022,
+                84.37793370433099,
+                72.87007016694895
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "20191028-224913-01-1_jpg.rf.7058362742f5a5da34af7993b56f95ed.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 25,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                42.739859713327256,
+                23.509606587374204,
+                16.731015553522344
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "20191028-225925-01-3-R_jpg.rf.26988cda3be9d41b72b52ece6f30d5dc.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 26,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                152.56741991556987,
+                92.96275142786192,
+                82.44400297988592
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "20191028-230204-01-1_jpg.rf.f4302ab5e448855c7acc728c27aa5835.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 27,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                17.60041761579313,
+                43.00987091875506,
+                24.125094912680648
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "20191028-230204-01-8_jpg.rf.0ae854ced2cb1f17418ee51471ce677a.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 28,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                49.79260572296779,
+                142.2917194226387,
+                80.32919726513043
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "20191028-230633-01-8_jpg.rf.180d34761bc78d997ad04f905e7c27f7.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 29,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                150.13261878099502,
+                106.266677331627,
+                89.2071668533034
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "20191028-231946-01-1_jpg.rf.2e30a738a887eb5e433e6fffbaad46bd.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 30,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                47.93276801938213,
+                14.38946093276822,
+                11.545931758529889
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "20191028-232419-01-3-R_jpg.rf.60f9241ce937a2dc12a84fa36d1ffc53.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 31,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                97.47188533627326,
+                46.90490628445393,
+                39.023153252481315
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "20191028-232652-01-1_jpg.rf.ba6599ba9602e5f7416242df5e565fdd.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 32,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                7.188960605386175,
+                12.394836412196737,
+                71.53728021366572
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "20191028-232652-01-3-R_jpg.rf.3facc48ffce259b5c7366e1c804372a0.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 33,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                46.316789453276755,
+                59.11554866227196,
+                109.85071733229915
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "20191028-232823-01-5-R_jpg.rf.1c05e987a85724dfdc8330b531719b8d.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 34,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                15.571481965988035,
+                48.76583816109163,
+                157.80134554288904
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "20191028-232823-01-8_jpg.rf.a328ae4a099b25374773aff3de1d24f9.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 35,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                34.22611464968137,
+                105.48503184713356,
+                191.63519108280258
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "20191028-234435-01-4-R_jpg.rf.931dd63095612c1bf498a154c55a98d7.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 36,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                25.081761006289526,
+                60.948846960167685,
+                28.18427672955975
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "20191029-175417-01-1_jpg.rf.0ab2f8eda7f1117bf774f19eb1028c6f.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 37,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                9.552785145888485,
+                25.213660477453672,
+                9.053978779840783
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "20191029-204541-01-3-R_jpg.rf.e2d26e57174d6a90bb9eb9fc04c6e1c1.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 38,
+            "category_id": 1,
+            "color_label": "White",
+            "dominant_color": [
+                222.27157738095238,
+                231.00706845238088,
+                240.48363095238093
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "3_JPG.rf.9e68e35d660363b539cfa66ca1161e17.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 39,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                57.935796766743756,
+                34.015011547343974,
+                33.370207852193886
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "50102_jpg.rf.a6ab50a17031c37b190a63c61e8e3a84.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 40,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                12.915976821192164,
+                69.92197847682104,
+                143.37044701986753
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "60b700a577a64_jpg.rf.9c8265ea4181b4b821fe510030454790.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 41,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                2.5673127291777122,
+                21.788580408590896,
+                7.921110529072861
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "60b700a577a64_jpg.rf.dc65bef5684e930e06fd08bf7f72a7b4.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 42,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                67.9955955955955,
+                96.9263263263264,
+                80.31231231231226
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "6_JPG_jpg.rf.5d1a8109be91b69b28c6f1778dd43af9.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 43,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                101.97071842015605,
+                59.19271365338868,
+                53.79809329247512
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "8d8741cf1ac2fa2_jpg.rf.46201ec8bbee1f9ad676b8af36131d62.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 44,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                41.53545410393367,
+                100.22462360369092,
+                162.71078193297714
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "a-locked-shipping-container-with-identification-markings-and-weight-F5MF3F_jpg.rf.82bd8e8b754d6d51b5f3733c0202421c.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 45,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                49.24302649930245,
+                72.87308228730838,
+                129.53417015341694
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "alconet-1-17_jpg.rf.0752de2ba0ff1a069b0c7ff2abc4eb30.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 46,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                18.446597239040887,
+                77.30104141438605,
+                155.3623153305885
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "alconet-1-6_jpg.rf.b145f404226041286695f8292417f98b.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 47,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                250.57938192970082,
+                143.4213257843832,
+                101.26303373437085
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "BEAU4804088-1-_jpg.rf.72126ec0fab1753fad327310f7bcadfe.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 48,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                111.26056146088864,
+                59.01907876805693,
+                53.41564458980665
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "BEAU4804088-1-_jpg.rf.ecc066c05068ea3c49c1163b6abf9915.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 49,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                43.4401126272473,
+                3.377951050465814,
+                2.493610569633905
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "BEAU5802407-1-_jpg.rf.260785bf3e039c76fb0dc2a10bb1643b.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 50,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                133.31331331331347,
+                58.90490490490584,
+                49.5081748415088
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "BEAU5802407-5-_jpg.rf.4815baf3daa23b8bb51553ce6b1c0658.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 51,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                173.67494824016563,
+                87.92753623188409,
+                85.59923099674651
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "BEAU5808278-1-_jpg.rf.2d333736f3e0912ed9e2c462bc4bec30.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 52,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                145.45603448275818,
+                85.50603448275882,
+                77.28836206896523
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "BEAU5896730-1-_jpg.rf.4958833b3011e9edc3c0dfe037906b68.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 53,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                78.26771290099218,
+                35.347103623355586,
+                32.69513039464615
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "BEAU5897300-1-_jpg.rf.5026d92f2587435e1ff5e009e6911e30.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 54,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                109.06040922377463,
+                44.555375121792736,
+                43.72263721987716
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "blue_png.rf.d0309a57263740b30f904e75bdc29bba.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 55,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                51.15472312703568,
+                72.16020136215572,
+                103.49807521468762
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "BMOU1212310-7-_jpg.rf.a474421a569eae7b26a40123674d5917.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 56,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                131.69395017793593,
+                72.25571936959838,
+                70.52821555668535
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "BMOU1216130-1-_jpg.rf.563470e1982ab9cb4b862419af7b91fc.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 57,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                80.65203339617537,
+                17.60948020468689,
+                14.758955022892025
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "BMOU1216130-1-_jpg.rf.a83d94862ee1c865a19039952be9ce38.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 58,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                161.34976402726798,
+                92.99003670686942,
+                89.86234923964335
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "BMOU1219124-6-_jpg.rf.07f91f515260beb9836547ab85d3bf1d.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 59,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                207.30095277547636,
+                118.09217067108534,
+                112.3827671913836
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "BMOU1235911-6-_jpg.rf.c6cec2e50368a7ccca19f3bbc2420fb9.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 60,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                114.01047463175118,
+                67.1908346972177,
+                64.90441898527003
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "BMOU2627990-1-_jpg.rf.2e2be54deae7b223cc4b12109a5db42f.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 61,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                59.486511919698685,
+                101.35382685069013,
+                126.12609786700129
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "BMOU4456156-1-_jpg.rf.69c38bf04c0649fed34ff702987e0ab8.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 62,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                178.23339926532918,
+                101.79881322407462,
+                91.77423000847696
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "BMOU4460053-3-_jpg.rf.8df0ae2dc4e25283465d9d2b44440bdd.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 63,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                121.16801292407136,
+                50.65697361335439,
+                34.759289176090775
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "BMOU4732758-1-_jpg.rf.0057dbe50c68147695cff88230ee483a.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 64,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                185.53161530286928,
+                103.71386822529227,
+                100.62778958554726
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "BMOU4840813-1-_361x480_jpg.rf.65fff0792893c508da0b72cbaf990e02.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 65,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                167.0479954827781,
+                91.09373235460188,
+                82.11660079051369
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "BMOU5032872-1-_jpg.rf.1e4404ee1babe0dd52c0abe9b5f4d090.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 66,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                198.24893677346176,
+                128.2049900765522,
+                118.00708817692086
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "BMOU5240897-4-_jpg.rf.8bca5799ecf4c1df3ed6a5f477962297.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 67,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                193.79416235937975,
+                112.90605047126785,
+                105.87686226816663
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "BSIU2952609-1-_jpg.rf.6d7dd766ca12bc8e8ae8a3e0f2dfe597.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 68,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                136.21121905358814,
+                64.14478219993731,
+                58.885302413036726
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "BSIU3183725-6-_jpg.rf.456000743e135e9f8cb10f236151b136.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 69,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                110.93991989319085,
+                56.185246995994696,
+                44.85013351134842
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "BSIU3183725-7-_jpg.rf.35ae41b64b44bc695b0bb5d04eacc569.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 70,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                56.77737719693542,
+                30.940964398377837,
+                24.422036953582342
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CAIU2541860-1-_jpg.rf.9e1123a88751069b855cd4d205c54cba.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 71,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                221.15005842096485,
+                140.26189283925893,
+                124.40160240360541
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CAIU2578690-4-_jpg.rf.dae2537ae83685cb948ef9d301033146.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 72,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                172.0010853835022,
+                78.16063675832133,
+                72.02821997105643
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CAIU2946180-7-_jpg.rf.1dd4ffa5f8fe8bb705d2015482468aca.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 73,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                36.54002744739253,
+                9.399130832570815,
+                6.680009149130799
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CAIU2946180-7-_jpg.rf.f4a05cb7aabf43bf778f4a75dc806c24.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 74,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                58.18806062480666,
+                20.94525208784413,
+                18.489019486544965
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CAIU3149345-1-_jpg.rf.81b65ddaed916be73a8b52708e0f8a4f.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 75,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                231.54430379746844,
+                111.44792360648461,
+                95.48500999333783
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CAIU3300596-8-_jpg.rf.8b93a8efb0db5add4436d7dc15bf2b68.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 76,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                89.98295241663543,
+                42.98295241663541,
+                40.023979018358986
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CAIU3351417-1-_jpg.rf.84b4dab5ae2cf552e56cc22c653da07d.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 77,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                167.91736621196205,
+                62.74160545645392,
+                57.20724029380935
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CAIU7092612-11-_jpg.rf.e23c35abe9fbed75758ed68b74b653a1.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 78,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                192.49714411247805,
+                80.78712653778558,
+                78.85808435852373
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CAIU8653132-1-_jpg.rf.c15b6017eee19695ebe7c0f69e2aa082.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 79,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                172.92791349619534,
+                95.61193432118543,
+                82.91429715658792
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CAIU8653132-4-_jpg.rf.0714ff7790a0b178284a11e3bd2598c6.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 80,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                245.70420214226922,
+                131.61356770118093,
+                107.04504257072244
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CAIU9562510-1-_jpg.rf.75c17f9d8cc4e4e35288a764ec46b0ae.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 81,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                202.29152637485984,
+                122.42732884399558,
+                107.34034792368124
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CAIU9599150-4-_jpg.rf.977982a08ae1943885892cf39117779e.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 82,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                99.86787391012741,
+                64.34004024144869,
+                52.03286384976527
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CBHU8898855-1-_jpg.rf.3b03b90b24d2e089f0477f965d401c5e.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 83,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                154.87852804573052,
+                151.44694533762055,
+                151.09253304751692
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CBHU9467894-1-_jpg.rf.8e1bf281d72759bd24e53a9c9e3115b7.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 84,
+            "category_id": 1,
+            "color_label": "White",
+            "dominant_color": [
+                248.4494328922491,
+                246.857986767486,
+                250.99172967863922
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CBHU9477418-1-_jpg.rf.baaa027cf3dac64729d0c36f663235d0.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 85,
+            "category_id": 1,
+            "color_label": "White",
+            "dominant_color": [
+                250.9389360380876,
+                250.5839370730695,
+                253.24922376319577
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CCLU4910382-5-_jpg.rf.5140fb66cfbafde4af4756f24feead52.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 86,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                51.02974910394262,
+                89.88028673835127,
+                106.93763440860214
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CCLU7386319-1-_jpg.rf.bdb07287000bfa04ec6aaf2bec8f2ca4.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 87,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                33.111620057859085,
+                51.14850530376077,
+                58.97540983606563
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CCLU7483155-1-_jpg.rf.f5ed2b0c2daf67ad932354aab9d5326e.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 88,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                59.42032332563512,
+                95.43071593533477,
+                109.88752886836033
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CCLU7625985-1-_jpg.rf.0c1fe657ccdc494b1490759f21ee788e.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 89,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                61.25882617494949,
+                100.35439622217214,
+                110.69867326287392
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CCLU7726975-1-_361x480_jpg.rf.ca148bf24454d5a94ad396d9705a9853.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 90,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                35.91666666666589,
+                76.38821752265825,
+                91.16666666666666
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CCLU7727890-1-_jpg.rf.b442acaf917d191ca5f499cb618ae86b.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 91,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                5.295248264815747,
+                10.689624488343746,
+                13.725395977931758
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CIMG17627413008_jpeg_jpg.rf.8fed38560b4d335998d2dd77b3d1bb05.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 92,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                1.2999692496926967,
+                4.581949569495521,
+                1.529827798277891
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CIMG17646912946_jpeg_jpg.rf.c104131c5aee3d8263502aa75f6a5b2a.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 93,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                40.70412371134017,
+                82.4484536082474,
+                73.30687285223371
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CMAU1140700-1-_jpg.rf.b4dd210aece43248243a997a9b9091f4.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 94,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                53.49268929503899,
+                78.37676240208877,
+                105.37989556135767
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CMAU4040310-4-_jpg.rf.47de3854f8f676246371fff4bafec3c1.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 95,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                52.314760147601476,
+                88.44723247232464,
+                121.3040590405904
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-100_jpg.rf.504e482bb0c74a6fe33d99008b32d545.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 96,
+            "category_id": 1,
+            "color_label": "White",
+            "dominant_color": [
+                255.0,
+                254.99938054924633,
+                254.9995870328309
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-104_jpg.rf.7e63055df972e0fe3cecabd41df5c922.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 97,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                57.10576745900109,
+                130.72618389533807,
+                174.39690436705334
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-106_jpg.rf.10df732b375d1ec24139b5547473259d.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 98,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                121.39809113300493,
+                124.70720443349755,
+                120.59051724137932
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-10_jpg.rf.797b7fdb9298349ac658a3114aeae1e5.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 99,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                47.15106192043074,
+                61.59018845348497,
+                93.79898294944668
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-114_jpg.rf.0759e767e8e5a94726d01429897dfbf8.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 100,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                51.594127243066815,
+                109.44991843393144,
+                69.91908646003262
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-115_jpg.rf.81bb4b1a99e38130216448db0217b2b8.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 101,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                24.001581027667847,
+                85.3351778656128,
+                138.49433465085622
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-117_jpg.rf.9175770915f6f45e74bfe5131eb640d0.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 102,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                42.88986432561842,
+                60.577281191806335,
+                101.51024208566105
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-118_jpg.rf.ea9c678afe277b4184b28e5e76818d9f.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 103,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                42.095866001425506,
+                60.45545260156807,
+                93.4176764076978
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-119_jpg.rf.b5ed95a09f3f47573abbceaa7605efa4.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 104,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                94.83169745958426,
+                120.38510392609702,
+                163.578233256351
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-11_jpg.rf.afd1c8ad238faa5b3cf9f0846ff2d0e4.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 105,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                36.27710400588015,
+                77.43917677324512,
+                130.28077912532157
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-120_jpg.rf.99af48563e118ae4f9cab889f185b7e8.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 106,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                30.74835828736593,
+                54.45468873128432,
+                85.98502758077197
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-122_jpg.rf.ee57ae7d4c9b3bf323c97ea81eb6ad46.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 107,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                64.84214186369961,
+                81.24455261937875,
+                108.07278627723682
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-127_jpg.rf.8299bc77af6f9ceeccc955fe9a1be516.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 108,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                172.9277450781412,
+                103.96894662066146,
+                94.21026994114126
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-12_jpg.rf.3403cd1fed41f2d97edc0cae4a540e37.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 109,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                36.07181522915915,
+                109.97618188379646,
+                203.53482497293396
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-131_jpg.rf.28f05f689004f03731d271587decce48.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 110,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                154.11619937694704,
+                84.61401869158877,
+                73.8501557632399
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-133_jpg.rf.cec1837fc525a1fd76b30d5857ddc112.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 111,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                238.99215953639018,
+                132.10431225498527,
+                114.02283961138576
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-138_jpg.rf.27cbeb60a27ab9e1808bb997923647c5.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 112,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                31.33353609083504,
+                164.42497972424954,
+                80.74574209245701
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-13_jpg.rf.5dd9f713f5f6d747a7928f026edfda75.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 113,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                36.54613733905578,
+                60.00178826895564,
+                109.55007153075822
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-149_jpg.rf.6510eac2e53239a1830ae15006a08463.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 114,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                42.89274061990209,
+                182.5970636215335,
+                235.86133768352354
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-14_jpg.rf.26ca78cabae501a633c1a1a9d555eb71.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 115,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                18.44703530979343,
+                79.47435043304465,
+                150.8161225849434
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-150_jpg.rf.b8d0d223abd4574b5083cf78b5ac2050.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 116,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                73.39672619047623,
+                138.40714285714284,
+                149.1827380952381
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-152_jpg.rf.39ffe75fde5b3fa69cb78a76dfda151f.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 117,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                205.19316046599025,
+                83.30232995114568,
+                76.61292747087579
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-153_jpg.rf.8d0107abbffc358ca4d611c8ddb215a8.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 118,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                194.9975384615385,
+                94.5433846153846,
+                91.18092307692316
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-154_jpg.rf.9d142404a8599a54073c25ac7ad980c8.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 119,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                26.687449062755107,
+                79.4256316218422,
+                164.481662591687
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-155_jpg.rf.a4fcc3801bd0d213851f984ed7215185.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 120,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                31.347988276046124,
+                108.55342392752439,
+                176.28164135358378
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-156_jpg.rf.50d8b52100f8ef2e5915c1d7013dde31.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 121,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                97.79842829076617,
+                39.60628683693519,
+                38.79764243614929
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-157_jpg.rf.7d6ae13c08b1d224685df726ba0ef21a.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 122,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                26.902694219199674,
+                47.74208736594272,
+                96.24300287732146
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-158_jpg.rf.6a84e84d39054c09bda17f2b6ffe5b65.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 123,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                75.46043851286939,
+                103.93193517635844,
+                162.73021925643476
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-15_jpg.rf.f877fbcc0b43ba116165176aa94b32a8.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 124,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                1.0862262038073915,
+                53.07204180664426,
+                161.12094064949608
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-162_jpg.rf.f0a7edfa50855471384d39d2844aa23a.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 125,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                176.80317785750896,
+                47.70194771911874,
+                39.52921578677616
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-167_jpg.rf.c9182499f40f2dc9b197b449ecfc850d.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 126,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                26.598917117867554,
+                83.45710120783006,
+                14.222615576842967
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-168_jpg.rf.055e6160ffc1002f18957f8c2b5456ad.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 127,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                42.06731101139113,
+                104.28443217121162,
+                174.9796341042458
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-16_jpg.rf.66f832a683d1fd3df9548be839145883.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 128,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                3.509090909090732,
+                110.74990328820128,
+                166.222243713733
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-170_jpg.rf.4496efc35999cd0c2c4261491c898db4.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 129,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                127.32474408753973,
+                61.59336392516768,
+                59.03882809742325
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-174_jpg.rf.e1a9f33b89b7c2f0283ce1072f2c2bb5.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 130,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                47.43697679980863,
+                74.77469504903134,
+                81.1920593159531
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-176_jpg.rf.b3b220a6cf1b2520d393af36caf0e15e.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 131,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                218.03001957798563,
+                73.17815966934955,
+                68.83597998694799
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-177_jpg.rf.25ae7872d3b619bc0c53bca1c0bef105.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 132,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                92.26512013256061,
+                47.39215686274545,
+                42.25296879315157
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-17_jpg.rf.1e63183ddb3d351f368861db7e94e4bf.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 133,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                43.49285714285715,
+                63.694155844155844,
+                96.46266233766232
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-180_jpg.rf.c03ac738c0c53a93e59f747d5b9943f4.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 134,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                172.3889379229184,
+                79.61017946454842,
+                69.27684613121505
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-181_jpg.rf.570b7edc10cccf376885ccd5d7cc8061.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 135,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                192.84076643541454,
+                116.42484307895612,
+                100.52461182689143
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-183_jpg.rf.d5d59589b5a8e705c5f162e7d65e4dd6.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 136,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                111.23888091822101,
+                62.585604973696825,
+                50.30344332855096
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-187_jpg.rf.c2ef62f40a9885bdbc00f6d2dc2fa1aa.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 137,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                176.21368492839272,
+                97.99977267560803,
+                78.90020459195264
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-188_jpg.rf.7fd7b5dca78670f91fa3e2981e7d60c6.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 138,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                122.35446843399845,
+                75.18229024323587,
+                66.4889314020224
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-18_jpg.rf.1ea68f2db677f8f7824c9700570ae80b.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 139,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                27.925457991156108,
+                90.14939987365763,
+                147.74320909665192
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-190_jpg.rf.bbe871c2593bb352b9caa243573c03f9.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 140,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                61.22045028142627,
+                66.46772983114454,
+                112.96153846153851
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-191_jpg.rf.1c13424e2825fd214505953a5f893bd6.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 141,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                33.80255735238812,
+                67.8710041368936,
+                122.72696502444528
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-193_jpg.rf.1bccdaf6da8139792bc4aa02adc25268.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 142,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                46.955978835978726,
+                98.88656084656074,
+                157.4827513227513
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-194_jpg.rf.3a4b399ea8f401c430310b742a167b22.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 143,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                13.724098234842655,
+                38.91020721412125,
+                105.03914044512663
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-195_jpg.rf.99e94341416367cf4b512857c656469b.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 144,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                72.94232437120554,
+                98.01127493495231,
+                187.62966175195146
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-196_jpg.rf.0dd24b8a4ac9330d95e067d16e00c7e0.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 145,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                112.21708185053382,
+                58.94116251482805,
+                51.42087781731895
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-199_jpg.rf.1d341951c5bee23358b367203eaa8bf8.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 146,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                82.44500402900886,
+                46.172844480258036,
+                40.64867042707487
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-19_jpg.rf.b7ae26e18f476767a663cf3d20682e3b.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 147,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                159.932016179216,
+                69.42283758556314,
+                33.88690105787181
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-200_jpg.rf.d835f25a4a6123d9c407ca9447bc5fda.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 148,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                172.80082730093068,
+                68.09906928645316,
+                61.00186142709425
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-201_jpg.rf.11531edd38dba9780b09301ea6a4047c.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 149,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                161.58610271903325,
+                83.2038112944457,
+                81.56170113874045
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-202_jpg.rf.3317d8ae153458e3d5112be788860d5f.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 150,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                201.55239179954447,
+                83.77038724373573,
+                51.48451025056937
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-205_jpg.rf.b837543571c151285242e83843ea7a9a.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 151,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                199.9547747747747,
+                108.97315315315313,
+                85.27657657657662
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-207_jpg.rf.8978c5983dac11ad2db3fdebc6d576b5.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 152,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                153.5325923700811,
+                93.25863622709528,
+                81.93121057374573
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-208_jpg.rf.ebe989d0a281d109d68cf2a1888ce743.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 153,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                148.91739824421404,
+                85.27553870710297,
+                82.23503591380691
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-20_jpg.rf.95bd8d31c406d247a7b56adc6558ccaa.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 154,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                152.69095394736837,
+                81.12746710526315,
+                75.6037828947367
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-210_jpg.rf.04fb1aeb62fdc80cdb9b1124cab45f82.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 155,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                125.74807121661713,
+                68.4821958456973,
+                55.015430267062285
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-212_jpg.rf.c79aeaadcb78b9475d15ebaaecefd7df.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 156,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                71.92726594554277,
+                134.76389406937707,
+                87.81462140992173
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-21_jpg.rf.576e2ebf6d2a4176fcd364338210bc2f.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 157,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                90.51997780244169,
+                54.325471698113205,
+                53.85294117647037
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-223_jpg.rf.e0ff2543905ceb5fae0234f3af9bfc25.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 158,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                62.10280373831759,
+                97.02511682242981,
+                152.40332943925245
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-224_jpg.rf.cdbc3e1f0695668a6459ea912bf85e3c.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 159,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                76.40700808625328,
+                128.64719976040718,
+                192.6756513926325
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-230_jpg.rf.c5db08c280d7e40058425db4d1b05591.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 160,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                91.43964690078666,
+                79.68604874304347,
+                108.79696795240844
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-233_jpg.rf.0ef07eabf4218b7181ae68458de04a1d.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 161,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                78.09290235081406,
+                105.24502712477378,
+                146.83386075949372
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-234_jpg.rf.838f063d9fb726dcd32d12aa3db879ea.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 162,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                59.031850011294374,
+                100.44522249830602,
+                148.27151569911894
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-237_jpg.rf.fa3684d6a12a934bb39cb71ea9b9b035.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 163,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                31.77110694183866,
+                108.64840525328331,
+                182.80787992495308
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-238_jpg.rf.b275cb0b7f36b7b67c486fa91b78e6db.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 164,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                49.57222566646002,
+                95.82331060136394,
+                140.49721016738994
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-23_jpg.rf.82734681ece62a36804371019f05b493.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 165,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                155.19116270361366,
+                107.49428945890308,
+                89.5796667290769
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-241_jpg.rf.6e251b7d1d3a91da1818b4a435e7618b.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 166,
+            "category_id": 1,
+            "color_label": "White",
+            "dominant_color": [
+                235.4679444811631,
+                219.02148050231312,
+                193.22306675479166
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-245_jpg.rf.f746ff6b477c87cae2de6862009b2607.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 167,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                175.5670767428239,
+                181.93907439953136,
+                189.4859402460458
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-249_jpg.rf.cec5b8cf09238b07b7f306c518c0690a.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 168,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                97.2125,
+                34.5342741935484,
+                29.345564516129045
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-266_jpg.rf.5a5545398b6b38c0fc65095de0e8df9b.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 169,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                202.78113301721984,
+                72.49688045919652,
+                23.33491390067383
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-269_jpg.rf.e5f646fa49f6354bc3b6cb161cd283a1.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 170,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                66.84380570410002,
+                86.50980392156877,
+                134.96991978609648
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-271_jpg.rf.f8d2a8d171e96ea6d1d1ce3b646bd6df.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 171,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                13.729199788025426,
+                61.54822469528304,
+                141.77715951245278
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-275_jpg.rf.901be31089d7fa18a608aced0127e716.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 172,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                49.18695802982988,
+                32.04058272632689,
+                28.987859868192793
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-277_jpg.rf.ed11b4c6ba4bf7647f8d7c18ec34f226.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 173,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                145.36339165545093,
+                59.346063257065865,
+                49.87550471063269
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-278_jpg.rf.214e0ea12daff80449a119be759c39c0.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 174,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                148.7650203121659,
+                63.049818259568,
+                52.20269403463755
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-27_jpg.rf.caec292fdc2983dd7b5a6a0a75cd11b5.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 175,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                36.76789587852517,
+                55.964673070963585,
+                69.35853734118375
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-280_jpg.rf.72eab434d3124c623017ba4d11757c93.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 176,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                127.63387622149811,
+                75.649185667752,
+                61.71824104234497
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-281_jpg.rf.96f4f873cb691cb89e2f84b7aad777ed.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 177,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                113.85511171293155,
+                60.31798691040399,
+                44.55585646580943
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-282_jpg.rf.5da1836d231dce58b367071aafc6446c.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 178,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                110.08896958692682,
+                140.23536087153877,
+                185.66227871084914
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-284_jpg.rf.936f5f8356ebb8f929977e99c8618d60.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 179,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                75.34132343011484,
+                93.95020256583383,
+                133.3961850101282
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-28_jpg.rf.f7aafa5f9b9f5a972bbbbea878e9bca8.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 180,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                202.21983089930808,
+                98.04739943633105,
+                74.57647963105309
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-290_jpg.rf.768c11c822ce7fa77be3f17c52edb7b1.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 181,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                196.05342672709864,
+                196.90097514077712,
+                201.61461337728366
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-293_jpg.rf.2158fd27c424c99078940b93d291e674.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 182,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                68.75375722543347,
+                90.99491329479767,
+                149.46196531791907
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-294_jpg.rf.4fdcf22ccdca1e43f2dd8f555d1673e0.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 183,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                36.31826839826834,
+                52.43116883116882,
+                91.8396536796537
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-297_jpg.rf.f454640122a054e55a25b3bbcc3c1401.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 184,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                160.3326671108154,
+                96.45969353764153,
+                82.21985343104593
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-298_jpg.rf.87fef45daecd62c296172e8640fbcb4f.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 185,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                152.24545766198133,
+                59.72643126499808,
+                48.89269797737407
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-29_jpg.rf.578fb3c6ca5cae194da82fe704e4809f.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 186,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                159.10200039611811,
+                85.1493365022776,
+                81.49792038027326
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-2_jpg.rf.a90063c9605c21812558ab401ee56d43.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 187,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                41.76378446115332,
+                74.19971804511273,
+                146.05764411027565
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-302_jpg.rf.d37574c130fcfdf431168f173733995f.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 188,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                148.52284917399706,
+                79.70692984338153,
+                76.75198455267076
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-308_jpg.rf.56cc1f673d4155991bf4e40ab07f95a9.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 189,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                166.70186765044983,
+                94.07516716624356,
+                81.02836061793886
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-30_jpg.rf.4f88b8129ab8b402628134e98d22ac0a.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 190,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                27.74578005115073,
+                40.934526854220096,
+                64.6388746803062
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-311_jpg.rf.5ca59e19d561a4183d55436d7ac2ec37.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 191,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                132.2817218117572,
+                79.20044972695152,
+                62.36877610022486
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-312_jpg.rf.0ef38ad4b647abcb1271656811f9a192.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 192,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                170.38141492633963,
+                78.28411850412833,
+                68.57471264367804
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-314_jpg.rf.db1a20c91ce3d2195d544cdf51252cd6.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 193,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                51.04218362282867,
+                83.83167907361454,
+                123.91873449131504
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-319_jpg.rf.10b9dd0dc74d2a159a97b37862aa5a4d.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 194,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                143.6917238001959,
+                85.01395690499514,
+                69.61336924583745
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-320_jpg.rf.9141253204c57e5ccc29b8af1c006480.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 195,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                151.4895554365292,
+                88.14059989287611,
+                72.5366898768075
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-323_jpg.rf.a92541f991c269ffd0222f8f80ab52d1.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 196,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                114.41754122938528,
+                64.73781859070495,
+                53.60569715142413
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-32_jpg.rf.c6f755897861bfe6312b45943bec8447.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 197,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                163.85213364207738,
+                79.28944756864044,
+                76.9758518028449
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-33_jpg.rf.58c998fdb71856a2d60c2b102a255eb1.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 198,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                45.0821428571428,
+                106.69642857142856,
+                163.70952380952386
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-34_jpg.rf.da61d8d9559c75abaebd2453d4b74525.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 199,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                49.6573902288188,
+                109.26376004947439,
+                185.4421768707482
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-36_jpg.rf.585442ccc5254f005171fa8ee8a6824f.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 200,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                45.98105963655018,
+                69.51266956744284,
+                134.60429997440502
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-37_jpg.rf.b47bfd19b02dcfe305780b7ab895df12.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 201,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                46.073479948253535,
+                101.2791720569211,
+                172.7063389391979
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-38_jpg.rf.227eb230c89652256e767a57b3a18e9b.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 202,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                33.06143479984145,
+                109.31985731272292,
+                193.8632580261594
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-3_jpg.rf.0360656cba1e70739ed49a8d625a1323.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 203,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                41.607262945527914,
+                60.73570948217888,
+                113.5390047074647
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-402_jpg.rf.14ad2d7e18881300e690a7c46b13e85f.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 204,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                73.14031374501947,
+                95.81997011952201,
+                152.60097111553765
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-403_jpg.rf.6139e9856a57c6cc21f80e353d75c85e.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 205,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                39.88682581786053,
+                60.4458443854993,
+                110.8211759504864
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-404_jpg.rf.2717e4275c665ce60da12a02facc3dc4.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 206,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                54.32329317269098,
+                77.12578886976493,
+                131.50329890992552
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-415_jpg.rf.5f9602ebbd8edeae466cc5174f58462b.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 207,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                1.4940365756692315,
+                50.190829578584584,
+                150.35276967930025
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-429_jpg.rf.6f87134ca5c7335b3b9dbcbbb3e0fa05.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 208,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                139.83748361730008,
+                89.89023591087798,
+                87.85681520314529
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-452_jpg.rf.8271a6a63eb6e29c8c77cafbb048c491.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 209,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                123.91258651627808,
+                65.41015124327075,
+                62.836580364009215
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-455_jpg.rf.21212bc11496160618df06d3619e091b.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 210,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                46.19145077720202,
+                86.67823834196888,
+                130.20077720207257
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-460_jpg.rf.39382cef67ee32e7a876a7897e316f36.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 211,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                46.44915824915826,
+                65.9949494949495,
+                91.75723905723906
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-466_jpg.rf.77389e5ce41f8f44e1428ef8af0df4a4.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 212,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                173.7138628515047,
+                177.64956421641176,
+                176.54826508797905
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-468_jpg.rf.cac5f6ecdde0fbacd82c6992cf38bb36.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 213,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                188.9737757171836,
+                192.7100840336134,
+                203.1705302810779
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-471_jpg.rf.26b70a947ebbafff7e83988dbebcf845.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 214,
+            "category_id": 1,
+            "color_label": "White",
+            "dominant_color": [
+                237.66967814793878,
+                238.51863354037252,
+                224.41699604743047
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-474_jpg.rf.90f21760d53df0f13f9434e55299213e.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 215,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                55.03426651735727,
+                111.06875699888037,
+                162.09787234042554
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-483_jpg.rf.62bdf0de8ac653eb03d25d51d8c82ca7.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 216,
+            "category_id": 1,
+            "color_label": "White",
+            "dominant_color": [
+                241.79761578514635,
+                241.01192107426698,
+                243.2001918333788
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-485_jpg.rf.1c4603d270e7a8ef7dad19948c95ca9b.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 217,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                31.322050290135603,
+                51.43617021276541,
+                104.88007736943943
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-48_jpg.rf.212a4f9f7e331fe67d0756ad70e2d190.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 218,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                30.721729641248967,
+                100.82785431728256,
+                56.49092893193259
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-512_jpg.rf.e5f4c243b9fc24275ecbcd5a0ef0d0f3.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 219,
+            "category_id": 1,
+            "color_label": "White",
+            "dominant_color": [
+                235.52495867768567,
+                233.4608264462812,
+                229.2955371900826
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-514_jpg.rf.1f588cd3c08ecd9b67e6938407755ddf.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 220,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                60.36089090222729,
+                123.19063797659496,
+                80.51981879954695
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-515_jpg.rf.0da0f2eeb4e72b99599d5cc6aee0f687.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 221,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                31.505470980019247,
+                92.80161750713629,
+                144.1707897240728
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-51_jpg.rf.c485e39d188fe69ee7ad9a28062dbde6.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 222,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                47.69675925925934,
+                58.867699430199394,
+                80.70512820512826
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-52_jpg.rf.1888167f7d70ed81f694587eb46b1445.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 223,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                116.88148327678128,
+                55.07561803199232,
+                52.84997576345168
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-533_jpg.rf.89f96c5b9e9b7faa110a8a0b4075ff90.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 224,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                245.31005990497832,
+                138.7203057219582,
+                118.91427391034901
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-53_jpg.rf.81923e2e5228fec231fd380bb14016b2.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 225,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                8.811231101511902,
+                30.27883369330455,
+                117.70885529157667
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-549_jpg.rf.44cea7797bd2059db440a3833793344d.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 226,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                9.612640801001259,
+                78.16833541927409,
+                159.34449311639543
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-550_jpg.rf.10c599975be118fe90e00c3b4a6c7129.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 227,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                75.73731063563957,
+                138.12275495861317,
+                148.46462595658284
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-552_jpg.rf.ecd3730cf5c4399ba2a42531712e2ac0.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 228,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                206.30332296611564,
+                86.9170076935669,
+                80.53167457849072
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-556_jpg.rf.3bbe5ae040164549346a4a8ab08ed9a7.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 229,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                100.66299951464163,
+                47.22973628862638,
+                46.88448471121174
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-557_jpg.rf.8ec154047dd74be598ed64f4911badb1.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 230,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                30.421978655898535,
+                54.877704066916635,
+                110.2183443899625
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-558_jpg.rf.b1f30cb0ae32341373cfef06472254f0.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 231,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                71.58112175102596,
+                96.48809849521206,
+                155.2889192886457
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-562_jpg.rf.6d554c42376c8b2ebd3edd4cc2941dfa.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 232,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                179.11146769362426,
+                50.41292255027752,
+                45.85301668806159
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-563_jpg.rf.08182b0387af5148e18707545a35796a.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 233,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                155.5669466403162,
+                40.0328557312253,
+                31.3814229249012
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-567_jpg.rf.0a0536bfd2d1926bd5fd864790271a26.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 234,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                28.930214525717247,
+                84.57611785991216,
+                16.5673300594469
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-568_jpg.rf.a4965e9fba4bf9be41549ace418a566f.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 235,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                50.562326869806284,
+                109.27700831024927,
+                177.2711911357339
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-578_jpg.rf.f31a93ec5210b2e30ffe31d11b1dce93.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 236,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                157.21298495645266,
+                76.5682238057534,
+                73.68619688572207
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-580_jpg.rf.15b0b183a98f5b81285c60ccae0bb9ba.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 237,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                157.6376488095238,
+                72.5967261904762,
+                63.00421626984126
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-642_jpg.rf.4ad363aa0886c0ea4ef65e360e8e73fc.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 238,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                130.38434675431378,
+                127.60990139687745,
+                145.6563270336894
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-67_jpg.rf.0b51401049683e346879c7a86d90962e.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 239,
+            "category_id": 1,
+            "color_label": "White",
+            "dominant_color": [
+                236.2676138575331,
+                232.84838458544027,
+                221.23880887504936
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-684_jpg.rf.0a854bfb8f13e1d4c956a10f7b0d9755.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 240,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                86.25857256778346,
+                102.60805422647519,
+                132.68361244019152
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-687_jpg.rf.a5d21aa91f47321dd718762cda856ffd.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 241,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                144.63162105936968,
+                143.55688910225643,
+                136.41846695471298
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-692_jpg.rf.2c2b1e9a68115196471b1df0b6bab09a.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 242,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                192.45411392405072,
+                194.17827004219367,
+                198.22714486638577
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-693_jpg.rf.b85f5f6a641abd8131f955c2eab8dd02.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 243,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                78.91945145018923,
+                112.30406683480459,
+                173.47588272383348
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-696_jpg.rf.5f060b9d89f7c454c841171d3b3223ff.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 244,
+            "category_id": 1,
+            "color_label": "White",
+            "dominant_color": [
+                230.67384044526915,
+                219.19851576994404,
+                192.3847866419298
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-6_jpg.rf.737cef4ff840080d115b8acb25392735.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 245,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                28.8462897526502,
+                104.95653710247352,
+                171.26607773851586
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-705_jpg.rf.5e69877521982716f9eddb951dc57e0f.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 246,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                140.3653497644074,
+                92.09568684305886,
+                83.1417180137734
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-73_jpg.rf.fffc1b1478963f51fa0277ec6495cfd4.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 247,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                154.90661783939322,
+                161.6528904002094,
+                158.0889353910542
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "Container-83_jpg.rf.03c42cf91db9f5af7c62384ad8c4b3a6.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 248,
+            "category_id": 1,
+            "color_label": "White",
+            "dominant_color": [
+                240.59647935003386,
+                240.07312119160449,
+                241.29502369668256
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CSNU6302414-1-_jpg.rf.e9ad122b8bba42346feaaf88b95665c3.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 249,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                43.959540732640775,
+                89.04410424640064,
+                132.35119373063597
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CSNU6579348-1-_jpg.rf.c926fabb2ccd20e8af4e4c9c36080a42.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 250,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                9.38263409452994,
+                129.93892724376005,
+                195.08072225172634
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CSNU7002710-1-_jpg.rf.6f3470615336e87b9c803ad0852b7c71.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 251,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                11.12573255194443,
+                73.30420884389994,
+                129.195702361925
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CSNU7082058-6-_jpg.rf.ed2f758b4efafa5b620c9448b2b59cb2.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 252,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                1.7372627372627127,
+                77.99400599400603,
+                142.17282717282714
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CSNU7083985-1-_jpg.rf.43c2a69cd5e34c09312cf65eff2242ba.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 253,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                38.61598639455798,
+                98.85000000000016,
+                133.14999999999998
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CSNU7401767-1-_jpg.rf.892ee3c4fbd147cc36b9472b3b5a9d5a.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 254,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                44.9826282773047,
+                121.0464854431398,
+                163.63262023483995
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "CSNU8459911-5-_jpg.rf.6084091f05157200592b33b1049d6a31.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 255,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                73.83992869875222,
+                104.7696969696969,
+                144.05454545454543
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "IMG148_jpg.rf.eec8b36959203d444bfe8c1d0f70108d.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 256,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                188.85831325301217,
+                187.5327710843375,
+                184.65108433734946
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "IMG163_jpg.rf.fea2833584d2188641332467a806b320.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 257,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                212.90202949335705,
+                213.77456563001957,
+                208.6104540808881
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "IMG211_jpg.rf.603bcf73416f2c03bf6091f658e99fd7.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 258,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                159.81560785701586,
+                156.73827641125433,
+                152.80605202618966
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "IMG215_jpg.rf.c3a5e94e5632c81e330e5e4ad6d394b9.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 259,
+            "category_id": 1,
+            "color_label": "White",
+            "dominant_color": [
+                239.40337532683594,
+                232.9526978844778,
+                217.30164012360302
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "IMG217_jpg.rf.d9ff9434bdfe39b3d241e2d5d3c601c3.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 260,
+            "category_id": 1,
+            "color_label": "White",
+            "dominant_color": [
+                240.8782911077995,
+                238.29955290610994,
+                227.70938897168395
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "IMG_5033_JPG.rf.e9e345e41c0164f13a4ecf4a50296e63.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 261,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                139.68620554904263,
+                90.56486908948813,
+                93.42770613520904
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "OOCU4808003-4-_jpg.rf.ba734e8a50acacea3be21ed5c3e0bc23.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 262,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                118.33322475570046,
+                116.15374592833894,
+                114.48631921824119
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "OOCU5029097-5-_jpg.rf.7b5832ac7f111ea5f6e6b5b9bd9e4791.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 263,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                186.63190436933235,
+                185.7366034624897,
+                191.97980214344605
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "PONU-710848-2-0-0-1-3_bmp.rf.2e7e0a7feed7f0958263e618de919aeb.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 264,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                146.47593953681866,
+                146.8052974622105,
+                147.00124809319095
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "product-new-3-540x400_jpg.rf.227e079f429f79eff06fe841060f989c.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 265,
+            "category_id": 1,
+            "color_label": "White",
+            "dominant_color": [
+                240.10106475824819,
+                240.16896491534266,
+                240.34927561529054
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "product-new-3-540x400_jpg.rf.34b58c2b850d6bce48c1b3e71901fe7c.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 266,
+            "category_id": 1,
+            "color_label": "White",
+            "dominant_color": [
+                240.10106475824819,
+                240.16896491534266,
+                240.34927561529054
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "SLVU4569006-4-_jpg.rf.106e81c7db138959b3e563f47711c0ec.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 267,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                97.434655396619,
+                131.38621586475944,
+                59.51788036410923
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "SLVU4624340-4-_jpg.rf.9f106faee9239b732aa0d4c7429eaba7.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 268,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                21.217067725130704,
+                41.08360208385061,
+                22.994046142396193
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "SLVU4653919-4-_jpg.rf.582ec9f0dd6484778e5e9833a707c15d.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 269,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                60.5420321637427,
+                124.02814327485378,
+                44.36769005847954
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "SLVU4655444-4-_361x480_jpg.rf.ef0efb313898251aa8577464de2fb121.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 270,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                94.54009520322225,
+                119.91541559868182,
+                69.43170999633836
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "SLVU4656841-4-_jpg.rf.4d721d2fd284690c90e20c57081134cf.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 271,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                73.92248949980916,
+                137.61512027491412,
+                57.34936998854527
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "SLVU4656841-5-_jpg.rf.2aee0af12f188c46d42be97316e9d080.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 272,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                93.59940971290575,
+                158.52589213844917,
+                70.94955728467943
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "SLVU4660142-3-_jpg.rf.49ec766d7277bbd35269b798874f9173.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 273,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                24.403515195898947,
+                129.84364701574518,
+                53.64262175027463
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "SLVU4704636-5-_jpg.rf.6e196185c6fb6c6b2d5c5440b188f555.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 274,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                13.42093602880091,
+                66.93630573248375,
+                24.932705621711445
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "SLVU4719256-3-_jpg.rf.2a0e58a3f409241d7fce9719f3ffb637.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 275,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                72.46023818670764,
+                123.39646561659623,
+                57.42028428736074
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "TCNU1328432-6-_jpg.rf.027008dcf463317aa07222d4d2587505.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 276,
+            "category_id": 1,
+            "color_label": "Red",
+            "dominant_color": [
+                208.8548568220102,
+                103.75210555867491,
+                74.31695676586193
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU2100641-4-_jpg.rf.1f288991496b5afae58b94718d783504.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 277,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                122.49151326798966,
+                182.89576858713858,
+                37.59670093234519
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU2107100-5-_jpg.rf.19f19fe346a34df8aee60e312db8d6be.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 278,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                51.605779918488345,
+                88.76880326046688,
+                35.854390515005534
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU2115786-4-_jpg.rf.f2d1fa8d15a5aa674e83bf3f1cb6bd48.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 279,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                34.150431861804115,
+                89.61804222648736,
+                36.33565259117104
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU2117109-3-_jpg.rf.23beb7a654d5a71ce6420b89afefb5c2.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 280,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                127.81205852674096,
+                179.10847628657925,
+                43.13925327951565
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU2118804-4-_jpg.rf.af072cde26606140f35b191f95787ea7.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 281,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                37.555887850467215,
+                61.182429906542104,
+                31.148411214953256
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU2125296-4-_jpg.rf.c93343cc344ae2dfd60bb6712c2734be.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 282,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                49.737403675163094,
+                101.24422050978043,
+                39.66478956727889
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU2125383-6-_jpg.rf.3213cc0b121b2b2dbde53051d3d6a7a9.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 283,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                86.4380222841225,
+                139.62639275766017,
+                67.86699164345409
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU2127581-6-_jpg.rf.d70d3bb3db0dd0e957c2797c85b4ddd2.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 284,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                50.086785418392544,
+                88.0814001657005,
+                38.71292460646213
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU2131093-4-_jpg.rf.01a93807d60ba78661a05136f13b8ac0.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 285,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                71.23415013613385,
+                114.55503695060288,
+                52.31310774017894
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU2133434-4-_jpg.rf.0b4d17d89fa9eb05554d6f2cb965175a.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 286,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                63.94865266284751,
+                100.20602588584758,
+                38.75217483556062
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU2135756-3-_jpg.rf.dbca7bcf22850c0f8f9e480af7eb7daa.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 287,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                33.967950310558905,
+                80.55329192546606,
+                39.7811180124221
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU2143094-5-_jpg.rf.ab754724a5291f123963b0fc69eea9e5.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 288,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                38.52123995407564,
+                63.80061232300033,
+                29.44393417527747
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU2145950-7-_jpg.rf.5fd7c88423a2e58721ff26e001f212c5.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 289,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                81.31502980859744,
+                145.3740194540321,
+                84.2616881079384
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU2147926-4-_jpg.rf.344ead34191d79388df3c809c1a2a214.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 290,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                56.46859205776171,
+                94.23140794223823,
+                48.385559566786995
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU2147926-6-_jpg.rf.5fa59744f628649774549c9e5516e6c1.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 291,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                66.44557684467995,
+                96.70444353852425,
+                52.267427639624856
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU2153533-6-_jpg.rf.eb1d24f87809f90604d05e379c94de3e.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 292,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                69.09764569664216,
+                116.72172906213818,
+                67.1918178309534
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU2154036-3-_360x480_jpg.rf.6b91449c7953af08e8b0237c20b2ee6c.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 293,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                119.95888594164462,
+                180.23773209549086,
+                82.53249336870032
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU2162556-3-_jpg.rf.2a94675ca3c0a2441ad000cf8f36fced.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 294,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                27.460830777808532,
+                52.804014496793876,
+                20.825202118762064
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU2162999-7-_jpg.rf.c7292f12682a4708ffb3c5c33ab89bf0.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 295,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                40.796129374337056,
+                98.02995758218431,
+                26.90376458112446
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU2163676-6-_jpg.rf.100030569206ad79caf8e3a0688e6037.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 296,
+            "category_id": 1,
+            "color_label": "Green",
+            "dominant_color": [
+                123.02587356628457,
+                190.2339290477458,
+                87.61082955454822
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU2903962-6-_jpg.rf.082dc636c7b37818818e22d1ee593897.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 297,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                114.16781411359716,
+                126.41767068273086,
+                167.05278255880657
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU2918134-4-_jpg.rf.e688fd70574848e324941ad6af90b0d0.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 298,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                86.05956813104982,
+                130.4929262844379,
+                201.17572598659706
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    },
+    {
+        "file_name": "VOLU4526955-9-_jpg.rf.ba2b5569a25260b2012684df18b46e5d.jpg",
+        "height": 416,
+        "width": 416,
+        "annotations": {
+            "id": 299,
+            "category_id": 1,
+            "color_label": "Blue",
+            "dominant_color": [
+                226.1616515045486,
+                128.02029391182643,
+                132.81210636808962
+            ],
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    }
+]
